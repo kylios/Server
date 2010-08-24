@@ -1,0 +1,183 @@
+[Mon Aug 16, 2010 00:05:34] server: bind
+[Mon Aug 16, 2010 00:05:34] server: failed to bind
+[Mon Aug 16, 2010 00:05:34] Error binding to localhost 
+[Mon Aug 16, 2010 00:07:00] server: bind
+[Mon Aug 16, 2010 00:07:00] server: failed to bind
+[Mon Aug 16, 2010 00:07:00] Error binding to localhost 
+[Mon Aug 16, 2010 00:09:10] server: bind
+[Mon Aug 16, 2010 00:09:10] server: failed to bind
+[Mon Aug 16, 2010 00:09:10] Error binding to localhost 
+[Sat Aug 21, 2010 12:02:28] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:02:28] server: Interrupted system call
+[Sat Aug 21, 2010 12:08:55] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:08:55] server: Interrupted system call
+[Sat Aug 21, 2010 12:09:05] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:09:05] server: Interrupted system call
+[Sat Aug 21, 2010 12:09:21] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:09:21] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:27] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:27] server: Interrupted system call
+[Sat Aug 21, 2010 12:50:44] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:50:44] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 12:58:12] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 12:58:12] server: Interrupted system call
+[Sat Aug 21, 2010 18:40:51] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 18:40:51] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:15:32] server: Interrupted system call
+[Sat Aug 21, 2010 19:30:03] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 19:30:03] server: Interrupted system call
+[Sat Aug 21, 2010 20:54:53] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 20:54:53] server: Interrupted system call
+[Sat Aug 21, 2010 20:54:53] server: Interrupted system call
+[Sat Aug 21, 2010 20:54:53] server: Interrupted system call
+[Sat Aug 21, 2010 20:54:53] server: Interrupted system call
+[Sat Aug 21, 2010 23:19:59] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 23:19:59] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:11] server: Interrupted system call
+[Sat Aug 21, 2010 23:20:52] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 23:20:52] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:34] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:21:35] server: Interrupted system call
+[Sat Aug 21, 2010 23:24:33] server: Failed to accept connection attempt
+[Sat Aug 21, 2010 23:24:33] server: Interrupted system call
+[Sun Aug 22, 2010 21:20:54] server: Failed to accept connection attempt
+[Sun Aug 22, 2010 21:20:54] server: Interrupted system call
+[Sun Aug 22, 2010 21:20:54] server: Interrupted system call
+[Sun Aug 22, 2010 21:20:54] server: Interrupted system call
+[Sun Aug 22, 2010 21:20:54] server: Interrupted system call
+[Sun Aug 22, 2010 21:20:54] server: Interrupted system call
+[Sun Aug 22, 2010 21:21:10] server: Failed to accept connection attempt
+[Sun Aug 22, 2010 21:21:10] server: Interrupted system call
+[Mon Aug 23, 2010 23:29:15] server: Failed to accept connection attempt
+[Mon Aug 23, 2010 23:29:15] server: Interrupted system call

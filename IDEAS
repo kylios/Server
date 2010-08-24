@@ -1,0 +1,11 @@
+facebook API constant feed/cache thing
+    -connect to server from php code and request a certain facebook ID
+    -server will then ping facebook semi-regularly and get userdata so it is ready
+    in cache for php code
+    -php code always queries server for this data
+    -server will fetch new data from facebook on-demand for php code
+    -server will keep cached copies of previously requested facebook data in memory
+    for X amount of time (alternately use memcached - probably better/easier) and
+    use that instead of going back to facebook to return the data to php
+
+

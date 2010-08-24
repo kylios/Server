@@ -1,0 +1,1481 @@
+[Sun Aug 15, 2010 23:26:45] server: waiting for client connections...
+[Sun Aug 15, 2010 23:27:50] server: waiting for client connections...
+[Sun Aug 15, 2010 23:27:59] server: waiting for client connections...
+[Sun Aug 15, 2010 23:30:56] server: waiting for client connections...
+[Sun Aug 15, 2010 23:31:23] SIGINT received, exiting...[Sat Aug 21, 2010 12:02:14] server: Logs initialized...
+[Sat Aug 21, 2010 12:02:14] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:02:14] server: Signal handlers initialized
+[Sat Aug 21, 2010 12:02:14] server: waiting for client connections...
+[Sat Aug 21, 2010 12:02:28] server: got connection
+[Sat Aug 21, 2010 12:02:28] server: New child!
+[Sat Aug 21, 2010 12:02:28] 19316: Child started!
+
+[Sat Aug 21, 2010 12:02:28] 19316: Child exiting
+
+[Sat Aug 21, 2010 12:02:14] server: Logs initialized...
+[Sat Aug 21, 2010 12:02:14] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:02:14] server: Signal handlers initialized
+[Sat Aug 21, 2010 12:02:14] server: waiting for client connections...
+[Sat Aug 21, 2010 12:02:28] server: got connection
+[Sat Aug 21, 2010 12:08:55] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 12:09:02] server: Logs initialized...
+[Sat Aug 21, 2010 12:09:02] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:09:02] server: waiting for client connections...
+[Sat Aug 21, 2010 12:09:05] server: got connection
+[Sat Aug 21, 2010 12:09:05] server: New child!
+[Sat Aug 21, 2010 12:09:05] server: Child exited due to parent notification..
+[Sat Aug 21, 2010 12:09:02] server: Logs initialized...
+[Sat Aug 21, 2010 12:09:02] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:09:02] server: waiting for client connections...
+[Sat Aug 21, 2010 12:09:05] server: got connection
+[Sat Aug 21, 2010 12:09:21] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:27] server: New child!
+[Sat Aug 21, 2010 12:50:27] 22263: Child started!
+[Sat Aug 21, 2010 12:50:27] 22263: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: New child!
+[Sat Aug 21, 2010 12:50:32] 22368: Child started!
+[Sat Aug 21, 2010 12:50:32] 22368: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: New child!
+[Sat Aug 21, 2010 12:50:34] 22420: Child started!
+[Sat Aug 21, 2010 12:50:34] 22420: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: New child!
+[Sat Aug 21, 2010 12:50:35] 22445: Child started!
+[Sat Aug 21, 2010 12:50:35] 22445: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: New child!
+[Sat Aug 21, 2010 12:50:35] 22467: Child started!
+[Sat Aug 21, 2010 12:50:35] 22467: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: New child!
+[Sat Aug 21, 2010 12:50:36] 22488: Child started!
+[Sat Aug 21, 2010 12:50:36] 22488: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: New child!
+[Sat Aug 21, 2010 12:50:37] 22508: Child started!
+[Sat Aug 21, 2010 12:50:37] 22508: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: New child!
+[Sat Aug 21, 2010 12:50:38] 22530: Child started!
+[Sat Aug 21, 2010 12:50:38] 22530: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: New child!
+[Sat Aug 21, 2010 12:50:38] 22551: Child started!
+[Sat Aug 21, 2010 12:50:38] 22551: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:39] server: got connection
+[Sat Aug 21, 2010 12:50:39] server: New child!
+[Sat Aug 21, 2010 12:50:39] 22571: Child started!
+[Sat Aug 21, 2010 12:50:39] 22571: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:39] server: got connection
+[Sat Aug 21, 2010 12:50:40] server: got connection
+[Sat Aug 21, 2010 12:50:40] server: New child!
+[Sat Aug 21, 2010 12:50:40] 22591: Child started!
+[Sat Aug 21, 2010 12:50:40] 22591: Child exiting
+[Sat Aug 21, 2010 12:49:55] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:49:55] server: Logs initialized...
+[Sat Aug 21, 2010 12:49:55] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:49:55] server: waiting for client connections...
+[Sat Aug 21, 2010 12:50:27] server: got connection
+[Sat Aug 21, 2010 12:50:32] server: got connection
+[Sat Aug 21, 2010 12:50:34] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:35] server: got connection
+[Sat Aug 21, 2010 12:50:36] server: got connection
+[Sat Aug 21, 2010 12:50:37] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:38] server: got connection
+[Sat Aug 21, 2010 12:50:39] server: got connection
+[Sat Aug 21, 2010 12:50:40] server: got connection
+[Sat Aug 21, 2010 12:50:44] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:12] server: New child!
+[Sat Aug 21, 2010 12:58:12] 772: Child started!
+[Sat Aug 21, 2010 12:58:12] 772: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: New child!
+[Sat Aug 21, 2010 12:58:31] 1214: Child started!
+[Sat Aug 21, 2010 12:58:31] 1214: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: New child!
+[Sat Aug 21, 2010 12:58:32] 1251: Child started!
+[Sat Aug 21, 2010 12:58:32] 1251: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: New child!
+[Sat Aug 21, 2010 12:58:33] 1282: Child started!
+[Sat Aug 21, 2010 12:58:33] 1282: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: New child!
+[Sat Aug 21, 2010 18:25:45] 6301: Child started!
+[Sat Aug 21, 2010 18:25:45] 6301: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: New child!
+[Sat Aug 21, 2010 18:25:46] 6322: Child started!
+[Sat Aug 21, 2010 18:25:46] 6322: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: New child!
+[Sat Aug 21, 2010 18:25:47] 6335: Child started!
+[Sat Aug 21, 2010 18:25:47] 6335: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: New child!
+[Sat Aug 21, 2010 18:25:47] 6354: Child started!
+[Sat Aug 21, 2010 18:25:47] 6354: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: New child!
+[Sat Aug 21, 2010 18:25:48] 6370: Child started!
+[Sat Aug 21, 2010 18:25:48] 6370: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: New child!
+[Sat Aug 21, 2010 18:25:48] 6386: Child started!
+[Sat Aug 21, 2010 18:25:48] 6386: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: New child!
+[Sat Aug 21, 2010 18:25:49] 6399: Child started!
+[Sat Aug 21, 2010 18:25:49] 6399: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: New child!
+[Sat Aug 21, 2010 18:25:49] 6415: Child started!
+[Sat Aug 21, 2010 18:25:49] 6415: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: New child!
+[Sat Aug 21, 2010 18:25:50] 6428: Child started!
+[Sat Aug 21, 2010 18:25:50] 6428: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: New child!
+[Sat Aug 21, 2010 18:25:50] 6445: Child started!
+[Sat Aug 21, 2010 18:25:50] 6445: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: New child!
+[Sat Aug 21, 2010 18:25:51] 6461: Child started!
+[Sat Aug 21, 2010 18:25:51] 6461: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: New child!
+[Sat Aug 21, 2010 18:25:51] 6479: Child started!
+[Sat Aug 21, 2010 18:25:51] 6479: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: New child!
+[Sat Aug 21, 2010 18:25:52] 6495: Child started!
+[Sat Aug 21, 2010 18:25:52] 6495: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: New child!
+[Sat Aug 21, 2010 18:25:53] 6520: Child started!
+[Sat Aug 21, 2010 18:25:53] 6520: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: New child!
+[Sat Aug 21, 2010 18:25:53] 6539: Child started!
+[Sat Aug 21, 2010 18:25:53] 6539: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: New child!
+[Sat Aug 21, 2010 18:25:54] 6555: Child started!
+[Sat Aug 21, 2010 18:25:54] 6555: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: New child!
+[Sat Aug 21, 2010 18:25:54] 6568: Child started!
+[Sat Aug 21, 2010 18:25:54] 6568: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: New child!
+[Sat Aug 21, 2010 18:25:55] 6587: Child started!
+[Sat Aug 21, 2010 18:25:55] 6587: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: New child!
+[Sat Aug 21, 2010 18:25:55] 6603: Child started!
+[Sat Aug 21, 2010 18:25:55] 6603: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: New child!
+[Sat Aug 21, 2010 18:25:56] 6619: Child started!
+[Sat Aug 21, 2010 18:25:56] 6619: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: New child!
+[Sat Aug 21, 2010 18:25:56] 6632: Child started!
+[Sat Aug 21, 2010 18:25:56] 6632: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: New child!
+[Sat Aug 21, 2010 18:25:57] 6648: Child started!
+[Sat Aug 21, 2010 18:25:57] 6648: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: New child!
+[Sat Aug 21, 2010 18:25:57] 6661: Child started!
+[Sat Aug 21, 2010 18:25:57] 6661: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: New child!
+[Sat Aug 21, 2010 18:25:58] 6677: Child started!
+[Sat Aug 21, 2010 18:25:58] 6677: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: New child!
+[Sat Aug 21, 2010 18:25:58] 6688: Child started!
+[Sat Aug 21, 2010 18:25:58] 6688: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: New child!
+[Sat Aug 21, 2010 18:25:58] 6701: Child started!
+[Sat Aug 21, 2010 18:25:58] 6701: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: New child!
+[Sat Aug 21, 2010 18:25:59] 6716: Child started!
+[Sat Aug 21, 2010 18:25:59] 6716: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: New child!
+[Sat Aug 21, 2010 18:25:59] 6732: Child started!
+[Sat Aug 21, 2010 18:25:59] 6732: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:26:00] server: got connection
+[Sat Aug 21, 2010 18:26:00] server: New child!
+[Sat Aug 21, 2010 18:26:00] 6751: Child started!
+[Sat Aug 21, 2010 18:26:00] 6751: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:26:00] server: got connection
+[Sat Aug 21, 2010 18:26:01] server: got connection
+[Sat Aug 21, 2010 18:26:01] server: New child!
+[Sat Aug 21, 2010 18:26:01] 6779: Child started!
+[Sat Aug 21, 2010 18:26:01] 6779: Child exiting
+[Sat Aug 21, 2010 12:58:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 12:58:08] server: Logs initialized...
+[Sat Aug 21, 2010 12:58:08] server: Initializing signal handlers
+[Sat Aug 21, 2010 12:58:08] server: waiting for client connections...
+[Sat Aug 21, 2010 12:58:12] server: got connection
+[Sat Aug 21, 2010 12:58:31] server: got connection
+[Sat Aug 21, 2010 12:58:32] server: got connection
+[Sat Aug 21, 2010 12:58:33] server: got connection
+[Sat Aug 21, 2010 18:25:45] server: got connection
+[Sat Aug 21, 2010 18:25:46] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:47] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:48] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:49] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:50] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:51] server: got connection
+[Sat Aug 21, 2010 18:25:52] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:53] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:54] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:55] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:56] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:57] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:58] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:25:59] server: got connection
+[Sat Aug 21, 2010 18:26:00] server: got connection
+[Sat Aug 21, 2010 18:26:01] server: got connection
+[Sat Aug 21, 2010 18:40:51] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 19:15:10] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 19:15:10] server: Logs initialized...
+[Sat Aug 21, 2010 19:15:10] server: Initializing signal handlers
+[Sat Aug 21, 2010 19:15:10] server: waiting for client connections...
+[Sat Aug 21, 2010 19:15:32] server: got connection
+[Sat Aug 21, 2010 19:15:32] server: New child!
+[Sat Aug 21, 2010 19:15:32] 10645: Child started!
+[Sat Aug 21, 2010 19:15:32] 10645: Child exiting
+[Sat Aug 21, 2010 19:15:32] server: got connection
+[Sat Aug 21, 2010 19:15:33] server: got connection
+[Sat Aug 21, 2010 19:15:33] server: New child!
+[Sat Aug 21, 2010 19:15:33] 10673: Child started!
+[Sat Aug 21, 2010 19:15:33] 10673: Child exiting
+[Sat Aug 21, 2010 19:15:33] server: got connection
+[Sat Aug 21, 2010 19:15:34] server: got connection
+[Sat Aug 21, 2010 19:15:34] server: New child!
+[Sat Aug 21, 2010 19:15:34] 10712: Child started!
+[Sat Aug 21, 2010 19:15:34] 10712: Child exiting
+[Sat Aug 21, 2010 19:15:34] server: got connection
+[Sat Aug 21, 2010 19:15:35] server: got connection
+[Sat Aug 21, 2010 19:15:35] server: New child!
+[Sat Aug 21, 2010 19:15:35] 10729: Child started!
+[Sat Aug 21, 2010 19:15:35] 10729: Child exiting
+[Sat Aug 21, 2010 19:15:35] server: got connection
+[Sat Aug 21, 2010 19:15:36] server: got connection
+[Sat Aug 21, 2010 19:15:36] server: New child!
+[Sat Aug 21, 2010 19:15:36] 10751: Child started!
+[Sat Aug 21, 2010 19:15:36] 10751: Child exiting
+[Sat Aug 21, 2010 19:15:36] server: got connection
+[Sat Aug 21, 2010 19:15:37] server: got connection
+[Sat Aug 21, 2010 19:15:37] server: New child!
+[Sat Aug 21, 2010 19:15:37] 10772: Child started!
+[Sat Aug 21, 2010 19:15:37] 10772: Child exiting
+[Sat Aug 21, 2010 19:15:37] server: got connection
+[Sat Aug 21, 2010 19:15:39] server: got connection
+[Sat Aug 21, 2010 19:15:39] server: New child!
+[Sat Aug 21, 2010 19:15:39] 10836: Child started!
+[Sat Aug 21, 2010 19:15:39] 10836: Child exiting
+[Sat Aug 21, 2010 19:15:39] server: got connection
+[Sat Aug 21, 2010 19:15:40] server: got connection
+[Sat Aug 21, 2010 19:15:40] server: New child!
+[Sat Aug 21, 2010 19:15:40] 10862: Child started!
+[Sat Aug 21, 2010 19:15:40] 10862: Child exiting
+[Sat Aug 21, 2010 19:15:40] server: got connection
+[Sat Aug 21, 2010 19:15:41] server: got connection
+[Sat Aug 21, 2010 19:15:41] server: New child!
+[Sat Aug 21, 2010 19:15:41] 10886: Child started!
+[Sat Aug 21, 2010 19:15:41] 10886: Child exiting
+[Sat Aug 21, 2010 19:15:41] server: got connection
+[Sat Aug 21, 2010 19:15:42] server: got connection
+[Sat Aug 21, 2010 19:15:42] server: New child!
+[Sat Aug 21, 2010 19:15:42] 10910: Child started!
+[Sat Aug 21, 2010 19:15:42] 10910: Child exiting
+[Sat Aug 21, 2010 19:15:42] server: got connection
+[Sat Aug 21, 2010 19:15:42] server: got connection
+[Sat Aug 21, 2010 19:15:42] server: New child!
+[Sat Aug 21, 2010 19:15:42] 10927: Child started!
+[Sat Aug 21, 2010 19:15:42] 10927: Child exiting
+[Sat Aug 21, 2010 19:15:42] server: got connection
+[Sat Aug 21, 2010 19:15:44] server: got connection
+[Sat Aug 21, 2010 19:15:44] server: New child!
+[Sat Aug 21, 2010 19:15:44] 10971: Child started!
+[Sat Aug 21, 2010 19:15:44] 10971: Child exiting
+[Sat Aug 21, 2010 19:15:44] server: got connection
+[Sat Aug 21, 2010 19:15:46] server: got connection
+[Sat Aug 21, 2010 19:15:46] server: New child!
+[Sat Aug 21, 2010 19:15:46] 11010: Child started!
+[Sat Aug 21, 2010 19:15:46] 11010: Child exiting
+[Sat Aug 21, 2010 19:15:46] server: got connection
+[Sat Aug 21, 2010 19:15:46] server: got connection
+[Sat Aug 21, 2010 19:15:46] server: New child!
+[Sat Aug 21, 2010 19:15:46] 11035: Child started!
+[Sat Aug 21, 2010 19:15:46] 11035: Child exiting
+[Sat Aug 21, 2010 19:15:46] server: got connection
+[Sat Aug 21, 2010 19:15:50] server: got connection
+[Sat Aug 21, 2010 19:15:50] server: New child!
+[Sat Aug 21, 2010 19:15:50] 11132: Child started!
+[Sat Aug 21, 2010 19:15:50] 11132: Child exiting
+[Sat Aug 21, 2010 19:15:50] server: got connection
+[Sat Aug 21, 2010 19:15:51] server: got connection
+[Sat Aug 21, 2010 19:15:51] server: New child!
+[Sat Aug 21, 2010 19:15:51] 11154: Child started!
+[Sat Aug 21, 2010 19:15:51] 11154: Child exiting
+[Sat Aug 21, 2010 19:15:51] server: got connection
+[Sat Aug 21, 2010 19:15:52] server: got connection
+[Sat Aug 21, 2010 19:15:52] server: New child!
+[Sat Aug 21, 2010 19:15:52] 11170: Child started!
+[Sat Aug 21, 2010 19:15:52] 11170: Child exiting
+[Sat Aug 21, 2010 19:15:52] server: got connection
+[Sat Aug 21, 2010 19:15:52] server: got connection
+[Sat Aug 21, 2010 19:15:52] server: New child!
+[Sat Aug 21, 2010 19:15:52] 11189: Child started!
+[Sat Aug 21, 2010 19:15:52] 11189: Child exiting
+[Sat Aug 21, 2010 19:15:52] server: got connection
+[Sat Aug 21, 2010 19:15:53] server: got connection
+[Sat Aug 21, 2010 19:15:53] server: New child!
+[Sat Aug 21, 2010 19:15:53] 11206: Child started!
+[Sat Aug 21, 2010 19:15:53] 11206: Child exiting
+[Sat Aug 21, 2010 19:15:53] server: got connection
+[Sat Aug 21, 2010 19:15:54] server: got connection
+[Sat Aug 21, 2010 19:15:54] server: New child!
+[Sat Aug 21, 2010 19:15:54] 11230: Child started!
+[Sat Aug 21, 2010 19:15:54] 11230: Child exiting
+[Sat Aug 21, 2010 19:15:54] server: got connection
+[Sat Aug 21, 2010 19:15:56] server: got connection
+[Sat Aug 21, 2010 19:15:56] server: New child!
+[Sat Aug 21, 2010 19:15:56] 11293: Child started!
+[Sat Aug 21, 2010 19:15:56] 11293: Child exiting
+[Sat Aug 21, 2010 19:15:56] server: got connection
+[Sat Aug 21, 2010 19:15:57] server: got connection
+[Sat Aug 21, 2010 19:15:57] server: New child!
+[Sat Aug 21, 2010 19:15:57] 11313: Child started!
+[Sat Aug 21, 2010 19:15:57] 11313: Child exiting
+[Sat Aug 21, 2010 19:15:57] server: got connection
+[Sat Aug 21, 2010 19:15:58] server: got connection
+[Sat Aug 21, 2010 19:15:58] server: New child!
+[Sat Aug 21, 2010 19:15:58] 11332: Child started!
+[Sat Aug 21, 2010 19:15:58] 11332: Child exiting
+[Sat Aug 21, 2010 19:15:58] server: got connection
+[Sat Aug 21, 2010 19:30:03] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 20:54:45] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 20:54:45] server: Logs initialized...
+[Sat Aug 21, 2010 20:54:45] server: Initializing signal handlers
+[Sat Aug 21, 2010 20:54:45] server: waiting for client connections...
+[Sat Aug 21, 2010 20:54:53] server: got connection
+[Sat Aug 21, 2010 20:54:53] server: New child!
+[Sat Aug 21, 2010 20:54:53] 19128: Child started!
+[Sat Aug 21, 2010 20:54:53] 19128: Child exiting
+[Sat Aug 21, 2010 20:54:53] server: got connection
+[Sat Aug 21, 2010 20:55:00] server: got connection
+[Sat Aug 21, 2010 20:55:00] server: New child!
+[Sat Aug 21, 2010 20:55:00] 19303: Child started!
+[Sat Aug 21, 2010 20:55:00] 19303: Child exiting
+[Sat Aug 21, 2010 20:55:00] server: got connection
+[Sat Aug 21, 2010 20:55:04] server: got connection
+[Sat Aug 21, 2010 20:55:04] server: New child!
+[Sat Aug 21, 2010 20:55:04] 19385: Child started!
+[Sat Aug 21, 2010 20:55:04] 19385: Child exiting
+[Sat Aug 21, 2010 20:55:04] server: got connection
+[Sat Aug 21, 2010 20:55:08] server: got connection
+[Sat Aug 21, 2010 20:55:08] server: New child!
+[Sat Aug 21, 2010 20:55:08] 19485: Child started!
+[Sat Aug 21, 2010 20:55:08] 19485: Child exiting
+[Sat Aug 21, 2010 20:55:08] server: got connection
+[Sat Aug 21, 2010 23:19:59] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 23:20:08] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 23:20:08] server: Logs initialized...
+[Sat Aug 21, 2010 23:20:08] server: waiting for client connections...
+[Sat Aug 21, 2010 23:20:11] server: got connection
+[Sat Aug 21, 2010 23:20:11] server: New child!
+[Sat Aug 21, 2010 23:20:11] 26220: Child started!
+[Sat Aug 21, 2010 23:20:11] 26220: Child exiting
+[Sat Aug 21, 2010 23:20:11] server: got connection
+[Sat Aug 21, 2010 23:20:16] server: got connection
+[Sat Aug 21, 2010 23:20:16] server: New child!
+[Sat Aug 21, 2010 23:20:16] 26326: Child started!
+[Sat Aug 21, 2010 23:20:16] 26326: Child exiting
+[Sat Aug 21, 2010 23:20:16] server: got connection
+[Sat Aug 21, 2010 23:20:17] server: got connection
+[Sat Aug 21, 2010 23:20:17] server: New child!
+[Sat Aug 21, 2010 23:20:17] 26360: Child started!
+[Sat Aug 21, 2010 23:20:17] 26360: Child exiting
+[Sat Aug 21, 2010 23:20:17] server: got connection
+[Sat Aug 21, 2010 23:20:18] server: got connection
+[Sat Aug 21, 2010 23:20:18] server: New child!
+[Sat Aug 21, 2010 23:20:18] 26381: Child started!
+[Sat Aug 21, 2010 23:20:18] 26381: Child exiting
+[Sat Aug 21, 2010 23:20:18] server: got connection
+[Sat Aug 21, 2010 23:20:18] server: got connection
+[Sat Aug 21, 2010 23:20:18] server: New child!
+[Sat Aug 21, 2010 23:20:18] 26395: Child started!
+[Sat Aug 21, 2010 23:20:18] 26395: Child exiting
+[Sat Aug 21, 2010 23:20:18] server: got connection
+[Sat Aug 21, 2010 23:20:19] server: got connection
+[Sat Aug 21, 2010 23:20:19] server: New child!
+[Sat Aug 21, 2010 23:20:19] 26413: Child started!
+[Sat Aug 21, 2010 23:20:19] 26413: Child exiting
+[Sat Aug 21, 2010 23:20:19] server: got connection
+[Sat Aug 21, 2010 23:20:19] server: got connection
+[Sat Aug 21, 2010 23:20:19] server: New child!
+[Sat Aug 21, 2010 23:20:19] 26428: Child started!
+[Sat Aug 21, 2010 23:20:19] 26428: Child exiting
+[Sat Aug 21, 2010 23:20:19] server: got connection
+[Sat Aug 21, 2010 23:20:20] server: got connection
+[Sat Aug 21, 2010 23:20:20] server: New child!
+[Sat Aug 21, 2010 23:20:20] 26445: Child started!
+[Sat Aug 21, 2010 23:20:20] 26445: Child exiting
+[Sat Aug 21, 2010 23:20:20] server: got connection
+[Sat Aug 21, 2010 23:20:21] server: got connection
+[Sat Aug 21, 2010 23:20:21] server: New child!
+[Sat Aug 21, 2010 23:20:21] 26470: Child started!
+[Sat Aug 21, 2010 23:20:21] 26470: Child exiting
+[Sat Aug 21, 2010 23:20:21] server: got connection
+[Sat Aug 21, 2010 23:20:22] server: got connection
+[Sat Aug 21, 2010 23:20:22] server: New child!
+[Sat Aug 21, 2010 23:20:22] 26492: Child started!
+[Sat Aug 21, 2010 23:20:22] 26492: Child exiting
+[Sat Aug 21, 2010 23:20:22] server: got connection
+[Sat Aug 21, 2010 23:20:52] server: SIGINT received, exiting... 
+
+[Sat Aug 21, 2010 23:21:29] server: 
+--------------------------------------------------
+
+[Sat Aug 21, 2010 23:21:29] server: Logs initialized...
+[Sat Aug 21, 2010 23:21:29] server: waiting for client connections...
+[Sat Aug 21, 2010 23:21:34] server: got connection
+[Sat Aug 21, 2010 23:21:34] server: New child!
+[Sat Aug 21, 2010 23:21:34] 28202: Child started!
+[Sat Aug 21, 2010 23:21:34] 28202: Child exiting
+[Sat Aug 21, 2010 23:21:34] server: got connection
+[Sat Aug 21, 2010 23:22:26] server: got connection
+[Sat Aug 21, 2010 23:22:26] server: New child!
+[Sat Aug 21, 2010 23:22:26] 29395: Child started!
+[Sat Aug 21, 2010 23:22:26] 29395: Child exiting
+[Sat Aug 21, 2010 23:22:26] server: got connection
+[Sat Aug 21, 2010 23:22:30] server: got connection
+[Sat Aug 21, 2010 23:22:30] server: New child!
+[Sat Aug 21, 2010 23:22:30] 29488: Child started!
+[Sat Aug 21, 2010 23:22:30] 29488: Child exiting
+[Sat Aug 21, 2010 23:22:30] server: got connection
+[Sat Aug 21, 2010 23:22:32] server: got connection
+[Sat Aug 21, 2010 23:22:32] server: New child!
+[Sat Aug 21, 2010 23:22:32] 29535: Child started!
+[Sat Aug 21, 2010 23:22:32] 29535: Child exiting
+[Sat Aug 21, 2010 23:22:32] server: got connection
+[Sat Aug 21, 2010 23:22:37] server: got connection
+[Sat Aug 21, 2010 23:22:37] server: New child!
+[Sat Aug 21, 2010 23:22:37] 29654: Child started!
+[Sat Aug 21, 2010 23:22:37] 29654: Child exiting
+[Sat Aug 21, 2010 23:22:37] server: got connection
+[Sat Aug 21, 2010 23:23:23] server: got connection
+[Sat Aug 21, 2010 23:23:23] server: New child!
+[Sat Aug 21, 2010 23:23:23] 30714: Child started!
+[Sat Aug 21, 2010 23:23:23] 30714: Child exiting
+[Sat Aug 21, 2010 23:23:23] server: got connection
+[Sat Aug 21, 2010 23:23:24] server: got connection
+[Sat Aug 21, 2010 23:23:24] server: New child!
+[Sat Aug 21, 2010 23:23:24] 30741: Child started!
+[Sat Aug 21, 2010 23:23:24] 30741: Child exiting
+[Sat Aug 21, 2010 23:23:24] server: got connection
+[Sat Aug 21, 2010 23:23:25] server: got connection
+[Sat Aug 21, 2010 23:23:25] server: New child!
+[Sat Aug 21, 2010 23:23:25] 30761: Child started!
+[Sat Aug 21, 2010 23:23:25] 30761: Child exiting
+[Sat Aug 21, 2010 23:23:25] server: got connection
+[Sat Aug 21, 2010 23:23:25] server: got connection
+[Sat Aug 21, 2010 23:23:25] server: New child!
+[Sat Aug 21, 2010 23:23:25] 30783: Child started!
+[Sat Aug 21, 2010 23:23:25] 30783: Child exiting
+[Sat Aug 21, 2010 23:23:25] server: got connection
+[Sat Aug 21, 2010 23:23:26] server: got connection
+[Sat Aug 21, 2010 23:23:26] server: New child!
+[Sat Aug 21, 2010 23:23:26] 30803: Child started!
+[Sat Aug 21, 2010 23:23:26] 30803: Child exiting
+[Sat Aug 21, 2010 23:23:26] server: got connection
+[Sat Aug 21, 2010 23:23:27] server: got connection
+[Sat Aug 21, 2010 23:23:27] server: New child!
+[Sat Aug 21, 2010 23:23:27] 30833: Child started!
+[Sat Aug 21, 2010 23:23:27] 30833: Child exiting
+[Sat Aug 21, 2010 23:23:27] server: got connection
+[Sat Aug 21, 2010 23:23:28] server: got connection
+[Sat Aug 21, 2010 23:23:28] server: New child!
+[Sat Aug 21, 2010 23:23:28] 30855: Child started!
+[Sat Aug 21, 2010 23:23:28] 30855: Child exiting
+[Sat Aug 21, 2010 23:23:28] server: got connection
+[Sat Aug 21, 2010 23:23:29] server: got connection
+[Sat Aug 21, 2010 23:23:29] server: New child!
+[Sat Aug 21, 2010 23:23:29] 30884: Child started!
+[Sat Aug 21, 2010 23:23:29] 30884: Child exiting
+[Sat Aug 21, 2010 23:23:29] server: got connection
+[Sat Aug 21, 2010 23:24:33] server: SIGINT received, exiting... 
+
+[Sun Aug 22, 2010 21:20:34] server: 
+--------------------------------------------------
+
+[Sun Aug 22, 2010 21:20:34] server: Logs initialized...
+[Sun Aug 22, 2010 21:20:34] server: waiting for client connections...
+[Sun Aug 22, 2010 21:20:54] server: got connection
+[Sun Aug 22, 2010 21:20:54] server: New child!
+[Sun Aug 22, 2010 21:20:54] 10062: Child started!
+[Sun Aug 22, 2010 21:20:54] 10062: Child exiting
+[Sun Aug 22, 2010 21:20:54] server: got connection
+[Sun Aug 22, 2010 21:21:02] server: got connection
+[Sun Aug 22, 2010 21:21:02] server: New child!
+[Sun Aug 22, 2010 21:21:02] 10259: Child started!
+[Sun Aug 22, 2010 21:21:02] 10259: Child exiting
+[Sun Aug 22, 2010 21:21:02] server: got connection
+[Sun Aug 22, 2010 21:21:05] server: got connection
+[Sun Aug 22, 2010 21:21:05] server: New child!
+[Sun Aug 22, 2010 21:21:05] 10319: Child started!
+[Sun Aug 22, 2010 21:21:05] 10319: Child exiting
+[Sun Aug 22, 2010 21:21:05] server: got connection
+[Sun Aug 22, 2010 21:21:06] server: got connection
+[Sun Aug 22, 2010 21:21:06] server: New child!
+[Sun Aug 22, 2010 21:21:06] 10339: Child started!
+[Sun Aug 22, 2010 21:21:06] 10339: Child exiting
+[Sun Aug 22, 2010 21:21:06] server: got connection
+[Sun Aug 22, 2010 21:21:06] server: got connection
+[Sun Aug 22, 2010 21:21:06] server: New child!
+[Sun Aug 22, 2010 21:21:06] 10363: Child started!
+[Sun Aug 22, 2010 21:21:06] 10363: Child exiting
+[Sun Aug 22, 2010 21:21:06] server: got connection
+[Sun Aug 22, 2010 21:21:10] server: SIGINT received, exiting... 
+
+[Mon Aug 23, 2010 23:29:00] server: 
+--------------------------------------------------
+
+[Mon Aug 23, 2010 23:29:00] server: Logs initialized...
+[Mon Aug 23, 2010 23:29:00] server: /usr/bin/perl
+[Mon Aug 23, 2010 23:29:00] server: /usr/bin/perl
+[Mon Aug 23, 2010 23:29:00] server: waiting for client connections...
+[Mon Aug 23, 2010 23:29:15] server: SIGINT received, exiting... 
+
