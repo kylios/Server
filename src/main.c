@@ -69,6 +69,9 @@ static char** interpreters;
  * client connections are made. */
 static int sockfd, newfd;
 
+/* The next process ID to assign */
+static int procid = 1;
+
 /* Set to false to quit */
 bool run = true;
 
@@ -186,10 +189,10 @@ main (int argc, char** argv, char** envp)
 
 
         /* Keep a record of this child here */
+        new_child->ourid = procid++;
         new_child->clientfd = newfd;
         new_child->parentread = parentread;
         new_child->parentwrite = parentwrite;
-
 
         /* Fork a child for this connection */
         pid_t pid = fork ();
@@ -201,10 +204,8 @@ main (int argc, char** argv, char** envp)
         }
         else if (pid == 0)
         {
-            /* Child */
-
-            /* This data structure is for the parent, we don't need it here */
             free (new_child);
+            /* Child */
 
             /* Don't need this since it was used for listening for new
              * connections */
@@ -224,22 +225,36 @@ main (int argc, char** argv, char** envp)
             /* Build the argument list.  Here we will need to pass the
              * values of all our file descriptors so they are accessible
              * from the child script */
-            char** _argv = build_child_argv ();
+            char** _argv = build_child_argv (exe, global_options.script_path, 
+                    newfd, childread, childwrite);
 
             /* The environment array.  This is simply the same that was
              * passed to our main function. */
             char** _envp = envp;
 
+            server_log ("Dumping our child's variables...");
+            server_log ("Executable: %s", exe);
+            server_log ("newfd: %d", newfd);
+            server_log ("childread: %d", childread);
+            server_log ("childwrite: %d", childwrite);
+
+            /* Close all our logging resources */
+            end_logging ();
+
             /* Initialize the child and get it started doing it's thing.
-             * When that routine returns, then kill the process. */
+             * If that routine returns, then kill the process because
+             * it means there was an error. */
             if (-1 == execve (exe, _argv, _envp))
             {
+                /* Start logging again so we can report our status */
+                init_logging (global_options.logfile_path,
+                        global_options.errfile_path);
                 server_err ("Failed to call exec:");
                 print_err (errno);
-            }
 
-            /* Kill the child process */
-            exit_child (EXIT_FAILURE);
+                /* Kill the child process */
+                exit_child (EXIT_FAILURE);
+            }
             NOT_REACHED
         }
         else

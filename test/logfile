@@ -1479,3 +1479,84 @@
 [Mon Aug 23, 2010 23:29:00] server: waiting for client connections...
 [Mon Aug 23, 2010 23:29:15] server: SIGINT received, exiting... 
 
+[Tue Aug 24, 2010 22:01:17] server: 
+--------------------------------------------------
+
+[Tue Aug 24, 2010 22:01:17] server: Logs initialized...
+[Tue Aug 24, 2010 22:01:17] server: waiting for client connections...
+[Tue Aug 24, 2010 22:01:28] server: got connection
+[Tue Aug 24, 2010 22:01:28] 24530: Dumping our child's argv...
+[Tue Aug 24, 2010 22:01:28] 24530: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:01:28] 24530: newfd: 7
+[Tue Aug 24, 2010 22:01:28] 24530: childread: 10
+[Tue Aug 24, 2010 22:01:28] 24530: childwrite: 9
+[Tue Aug 24, 2010 22:01:28] server: got connection
+[Tue Aug 24, 2010 22:03:19] server: SIGINT received, exiting... 
+
+[Tue Aug 24, 2010 22:03:24] server: 
+--------------------------------------------------
+
+[Tue Aug 24, 2010 22:03:24] server: Logs initialized...
+[Tue Aug 24, 2010 22:03:24] server: waiting for client connections...
+[Tue Aug 24, 2010 22:03:28] server: got connection
+[Tue Aug 24, 2010 22:03:28] 27336: Dumping our child's variables...
+[Tue Aug 24, 2010 22:03:28] 27336: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:03:28] 27336: newfd: 7
+[Tue Aug 24, 2010 22:03:28] 27336: childread: 10
+[Tue Aug 24, 2010 22:03:28] 27336: childwrite: 9
+[Tue Aug 24, 2010 22:03:28] 27336: Dumping our child's argv (should be the same)
+[Tue Aug 24, 2010 22:03:28] 27336: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:03:28] 27336: newfd: 7
+[Tue Aug 24, 2010 22:03:28] 27336: childread: 10
+[Tue Aug 24, 2010 22:03:28] 27336: childwrite: 9
+[Tue Aug 24, 2010 22:03:28] server: got connection
+[Tue Aug 24, 2010 22:03:38] server: got connection
+[Tue Aug 24, 2010 22:03:38] 27553: Dumping our child's variables...
+[Tue Aug 24, 2010 22:03:38] 27553: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:03:38] 27553: newfd: 7
+[Tue Aug 24, 2010 22:03:38] 27553: childread: 12
+[Tue Aug 24, 2010 22:03:38] 27553: childwrite: 10
+[Tue Aug 24, 2010 22:03:38] 27553: Dumping our child's argv (should be the same)
+[Tue Aug 24, 2010 22:03:38] 27553: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:03:38] 27553: newfd: 7
+[Tue Aug 24, 2010 22:03:38] 27553: childread: 12
+[Tue Aug 24, 2010 22:03:38] 27553: childwrite: 10
+[Tue Aug 24, 2010 22:03:38] server: got connection
+[Tue Aug 24, 2010 22:05:31] server: got connection
+[Tue Aug 24, 2010 22:05:31] 30188: Dumping our child's variables...
+[Tue Aug 24, 2010 22:05:31] 30188: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:05:31] 30188: newfd: 7
+[Tue Aug 24, 2010 22:05:31] 30188: childread: 14
+[Tue Aug 24, 2010 22:05:31] 30188: childwrite: 12
+[Tue Aug 24, 2010 22:05:31] 30188: Dumping our child's argv (should be the same)
+[Tue Aug 24, 2010 22:05:31] 30188: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:05:31] 30188: newfd: 7
+[Tue Aug 24, 2010 22:05:31] 30188: childread: 14
+[Tue Aug 24, 2010 22:05:31] 30188: childwrite: 12
+[Tue Aug 24, 2010 22:05:31] server: got connection
+[Tue Aug 24, 2010 22:40:33] server: SIGINT received, exiting... 
+
+Argv:
+\n\n\n\n\nArgv:
+
+
+
+
+
+[Tue Aug 24, 2010 22:42:35] server: 
+--------------------------------------------------
+
+[Tue Aug 24, 2010 22:42:35] server: Logs initialized...
+[Tue Aug 24, 2010 22:42:35] server: waiting for client connections...
+[Tue Aug 24, 2010 22:42:55] server: got connection
+[Tue Aug 24, 2010 22:42:55] 18837: Dumping our child's variables...
+[Tue Aug 24, 2010 22:42:55] 18837: Executable: /usr/bin/perl
+[Tue Aug 24, 2010 22:42:55] 18837: newfd: 7
+[Tue Aug 24, 2010 22:42:55] 18837: childread: 10
+[Tue Aug 24, 2010 22:42:55] 18837: childwrite: 9
+Argv:
+7
+10
+9
+
+
