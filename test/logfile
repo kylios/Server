@@ -1560,3 +1560,6 @@ Argv:
 9
 
 
+[Tue Aug 24, 2010 22:42:55] server: got connection
+[Thu Aug 26, 2010 22:19:04] server: SIGINT received, exiting... 
+
