@@ -113,7 +113,7 @@ main (int argc, char** argv, char** envp)
     struct sockaddr_storage client_addr;    // Client's address info
     socklen_t sin_size;
     char s[INET6_ADDRSTRLEN];           // ip address as a string
-	struct sockaddr_storage their_addr; 
+    struct sockaddr_storage their_addr; 
 
     if (-1 == bind_to_localhost (global_options.port, global_options.ipver, 
                 &sockfd))
@@ -194,10 +194,54 @@ main (int argc, char** argv, char** envp)
         new_child->parentread = parentread;
         new_child->parentwrite = parentwrite;
 
+        /* This lock will allow the new thread that is about to be created to 
+         * begin its execution loop.  We should create and acquire the lock
+         * before creating the thread so that we can be sure to get the lock
+         * before the new thread does, forcing the thread to block until we are
+         * sure we want the thread running. */
+        result = pthread_mutex_init (&new_child->init_lock, NULL);
+        if (result)
+        {
+            server_err ("Error initializing init_lock for new thread: %d", result);
+            close (newfd);
+            close (childread);
+            close (childwrite);
+            close (parentread);
+            close (parentwrite);
+            free (new_child);
+            continue;
+        }
+        /* The first thing the new thread will do is try to acquire this.  We
+         * make it block until after the fork succeeds. */
+        pthread_mutex_lock (&new_child->init_lock);
+
+        /* Create a thread for communication with the new child we're about to
+         * fork. */
+        int result = pthread_create (&new_child->thread, NULL, 
+                &child_comm_thread, new_child);
+        if (result)
+        {
+            server_err ("Error creating the child communications thread: %d", result);
+            close (newfd);
+            close (childread);
+            close (childwrite);
+            close (parentread);
+            close (parentwrite);
+            free (new_child);
+            continue;
+        }
+
         /* Fork a child for this connection */
         pid_t pid = fork ();
         if (pid < 0)
         {
+            close (newfd);
+            close (childread);
+            close (childwrite);
+            close (parentread);
+            close (parentwrite);
+            pthread_mutex_unlock (&new_child->init_lock);
+            pthread_join (&new_child->thread);
             free (new_child);
             server_err ("Could not fork a child! Terminating server...");
             run = false;
@@ -270,14 +314,13 @@ main (int argc, char** argv, char** envp)
 
             new_child->pid = pid;
             
-            /* Do something with this record */
-            // TODO REMOVE !!!
-            free (new_child); 
+            /* We'll add this child record to a data structure so that we can 
+             * access certain information about the child later, such as the
+             * pipes we use to communicate with the process, the child's client
+             * ip address, and the pid. */
+            add_child (new_child);
         }
     }
-    
-    
-
 
     exit_program (EXIT_SUCCESS);
     printf ("END \n");
@@ -391,7 +434,7 @@ read_env_variables (char** envp)
 int
 bind_to_localhost (const char* port, int ipver, int* sockfd)
 {
-	struct addrinfo hints;
+    struct addrinfo hints;
     struct addrinfo* servinfo;
     struct addrinfo* p;
     
@@ -401,16 +444,16 @@ bind_to_localhost (const char* port, int ipver, int* sockfd)
      * -Use passive mode 
      * */
     memset (&hints, 0, sizeof hints);
-	hints.ai_family = AF_UNSPEC;//(ipver == 4 ? AF_INET : AF_INET6);
-	hints.ai_socktype = SOCK_STREAM;
-	hints.ai_flags = AI_PASSIVE; 
+    hints.ai_family = AF_UNSPEC;//(ipver == 4 ? AF_INET : AF_INET6);
+    hints.ai_socktype = SOCK_STREAM;
+    hints.ai_flags = AI_PASSIVE; 
 
-	int rv;
-	if ((rv = getaddrinfo (NULL, port, &hints, &servinfo)) != 0) 
+    int rv;
+    if ((rv = getaddrinfo (NULL, port, &hints, &servinfo)) != 0) 
     {
         server_err ("getaddrinfo: %s", gai_strerror (rv));
-		return -1;
-	}
+        return -1;
+    }
 
     /* Find an address to bind to.  Since we just need to bind to ourselves,
      * this should not fail. 
@@ -419,7 +462,7 @@ bind_to_localhost (const char* port, int ipver, int* sockfd)
     int fd;
 
     char ipstr[INET6_ADDRSTRLEN];
-	for (p = servinfo; p != NULL; p = p->ai_next) 
+    for (p = servinfo; p != NULL; p = p->ai_next) 
     {
         char* ipver_str;
         void* addr;
@@ -440,35 +483,35 @@ bind_to_localhost (const char* port, int ipver, int* sockfd)
         inet_ntop (p->ai_family, addr, ipstr, sizeof ipstr);
         printf ("scanning %s: %s...\n", ipver_str, ipstr);
 
-		if ((fd = socket(p->ai_family, p->ai_socktype,
-				p->ai_protocol)) == -1) {
+        if ((fd = socket(p->ai_family, p->ai_socktype,
+                p->ai_protocol)) == -1) {
             server_err ("socket");
-			continue;
-		}
+            continue;
+        }
 
-		if (setsockopt (fd, SOL_SOCKET, SO_REUSEADDR, &yes,
-				sizeof (int)) == -1) {
+        if (setsockopt (fd, SOL_SOCKET, SO_REUSEADDR, &yes,
+                sizeof (int)) == -1) {
             server_err ("setsockopt");
             close (fd);
-			return -1;
-		}
+            return -1;
+        }
    
         if (bind (fd, p->ai_addr, p->ai_addrlen) == -1) {
-			close(fd);
+            close(fd);
             server_err ("bind");
-			continue;
-		}
+            continue;
+        }
 
-		break;
-	}
+        break;
+    }
 
-	if (p == NULL)  
+    if (p == NULL)  
     {
         server_err ("failed to bind");
-		return -1;
-	}
+        return -1;
+    }
 
-	freeaddrinfo(servinfo); // all done with this structure
+    freeaddrinfo(servinfo); // all done with this structure
 
     /* This is the socket we'll return to the caller */
     *sockfd = fd;
