@@ -44,6 +44,7 @@ struct server_child
 struct child_index
 {
     struct bst_tree tree;    // TODO use avl or more efficient structure instead
+    pthread_mutex_t lock;   // keep accesses synchronized
 };
 
 void init_child_index ();
@@ -54,6 +55,57 @@ struct server_child* remove_child (int our_id);
 struct server_child* get_child (int proc_id);
 void dump_child_index ();
 
+/* There are certain commands that can be sent from one child process to another
+ * child process.  These commands will originate from the user command script,
+ * but they will need to have some supporting implementation here.  Commands
+ * include:
+ *  - blocking/non-blocking send and recv operations
+ *  - synchronization primatives: semaphores, mutexes, monitors
+ *  - some way to have the parent store customized information for them all to
+ *    access
+ */
+enum command
+{
+    NOTHING = 0,
+    SEND_B = 1,
+    SEND_NB = 2,
+    SEND_WAIT = 3,
+    RECV_B = 4,
+    RECV_NB = 5,
+    RECV_WAIT = 6,
+    SEMA_INIT = 7,
+    SEMA_POST = 8,
+    SEMA_WAIT = 9,
+    SEMA_TRY_WAIT = 10,
+    LOCK_INIT = 11,
+    LOCK_ACQUIRE = 12,
+    LOCK_RELEASE = 13,
+    LOCK_TRY_ACQUIRE = 14,
+    MONITOR_INIT = 15,
+    MONITOR_WAIT = 16,
+    MONITOR_SIGNAL = 17,
+    MONITOR_BCAST = 18
+};
+
+#define NUM_COMMANDS 19
+
+/* This struct defines an entire message that a child process could send to its
+ * parent.  The message must include a command, and any of the other parameters
+ * present in the structure. */
+struct message
+{
+    enum command command;   // The command to send
+    char identifier[16];    // An identifier for global synch objects
+    int id;                 // A numeric id for messaging sibling processes
+    size_t sz;              // Size of the information
+    char information[484];  // Information sent or received from the sibling
+                            // struct is arbitrarily 512 bytes long
+};
+
+/* This definition represents a generic function type to handle a command sent
+ * to us by a child process.  We will use an array of functions, indexed by the
+ * enum COMMAND. */
+typedef int commandfunc (struct server_child*, struct message*);
 
 /**
  * The function executed in the child's communications thread.  This thread's

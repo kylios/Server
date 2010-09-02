@@ -1,0 +1,50 @@
+Describes our client API.  
+
+
+Communication from child process to parent process:
+
+* get_connection_status (child_id) - gets the status of a connection. 
+    -param int child_id: the ID of a child process who's client connection we
+     want to get the status of
+
+    -return conn_state_t: The state of the connection.  Possible values are:
+
+        CONN_CONNECTION - the connection is normal and stable
+        CONN_DISCONNECTED - there is no client connection
+        CONN_SENDING - the child process is sending a message to the client
+            which has not completed yet, but the send operation was not
+            blocking.
+        CONN_RECVING - the child process is receiving a message from the client
+            which has not completed yet, but the receive operation was not
+            blocking.
+        CONN_CLOSING - the connection is being closed.  The command which
+            triggers this state requires the server to send a message to the
+            client, then requires a client response before closing the
+            connection.  This state happens while either the message is being
+            send, or received.
+        CONN_TERMING - the connection is being terminated without the parent <->
+            child exchange.
+        CONN_RESET - the connection is attempting to be reset.  This state
+            happens before it is certain whether the reset succeeded or not.
+        CONN_WAITSEND - the server is sending a message to the client and is
+            blocked until the operation completes.
+        CONN_WAITRECV - the server is receiving a message from the client and is
+            blocked until the operation completes.
+
+* get_conn_info (child_id) - gets information about a child and its client
+    -param int child_id: the ID of a child process who's connection information
+     we want
+
+    -return proc_info_t: The information about the process, returned in a
+     struct:
+
+        struct proc_info
+        {
+            int proc_id;        // server ID of the process, NOT the system pid
+            ip_addr_t client_ip;    // The client's ip address
+            conn_state_t conn_state;// the state of this process's connection
+            struct proc_info* next; // used to access a list of all processes
+        };
+        typedef struct proc_info proc_info_t;
+
+

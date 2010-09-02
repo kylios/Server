@@ -82,19 +82,39 @@ typedef enum conn_state
 
 typedef struct
 {
+    int child_id;
     int port;
     ip_addr_t ip;
     enum conn_state state;
-} conn_status_t;
-
-struct proc_info
-{
-    int proc_id;            // server ID of the process, NOT the system pid
-    ip_addr_t client_ip;    // The client's ip address
-    conn_state_t conn_state;// the state of this process's connection
-    struct proc_info* next;      // used to access a list of all processes
+    struct conn_info* next;
 };
-typedef struct proc_info proc_info_t;
+typedef struct conn_info conn_info_t;
+
+/**
+ * Various commands the child process could send to the parent. */
+enum child_command
+{
+    GET_CONN_STATUS,    // Get the status of a connection
+    GET_CONN_INFO,      // Get information for a connection
+    CLOSE_CONN,         // Gracefully close a connection
+    TERM_CONN,          // Forcefully terminate a connection
+    RESET_CONN,         //
+    GET_OURID,
+    GET_CLIENT_IP,
+    GET_CLIENT_PORT,
+    CHANGE_CLIENT_PORT,
+    GET_ALL_CONN
+};
+
+/**
+ * Represents a message that could be sent to the parent by it's child process.
+ * Depending on the message, the parent could return different responses. */
+struct child_message
+{
+    enum child_command command;
+
+};
+
 
 /* Initializes the library's static variables with data received from the
  * parent. 
@@ -117,6 +137,25 @@ void log_msg (char* format, ...);
 /* Log an error to the custom log file */
 void err_msg (char* format, ...);
 
+/**
+ * Defines the type for a message handle.  These are used only for 
+ * non-blocking, or asynchronous communications.  Any non-blocking operation
+ * will return a message handle, which is then used later to wait for that
+ * request to complete. */
+typedef int message_handle_t;
+
+
+/* *
+ * *                    [ Inter Process Communication ]
+ * */
+int sibling_send_b (int procid, void* data, size_t sz);
+message_handle_t sibling_send_nb (int procid, void* data, size_t sz);
+int sibling_wait_send (message_handle_t mh);
+int sibling_recv_b (int procid, void* data, size_t sz);
+message_handle_t sibling_recv_nb (int procid, void* data, size_t sz);
+int sibling_wait_recv (message_handle_t mh);
+void log_message (char* format, ...);
+void log_error (char* format, ...);
 
 /* *
  * *                    [ Client Communication ] 
@@ -125,13 +164,6 @@ void err_msg (char* format, ...);
 /* The functions below describe operations for communicating with the client.
  * Many of these functions return -1 on error.  The specific error message
  * can be found in the static variable serverr. */
-
-/**
- * Defines the type for a message handle.  These are used only for 
- * non-blocking, or asynchronous communications.  Any non-blocking operation
- * will return a message handle, which is then used later to wait for that
- * request to complete. */
-typedef int message_handle_t;
 
 /**
  * Send a message to the client stored at DATA and SZ bytes long.  This
@@ -188,20 +220,36 @@ int terminate_connection (void* msg, int msg_sz);
  * the connection was successfully reestablished, -1 on failure. */
 int reset_connection (void* msg, int msg_sz, void* response, int resp_sz);
 
-/* [ IPC ] */
-int proc_send_b (int procid, void* data, size_t sz);
-int proc_send_nb (int procid, void* data, size_t sz);
-int proc_recv_b (int procid, void* data, size_t sz);
-int proc_recv_nb (int procid, void* data, size_t sz);
-void log_message (char* format, ...);
-void log_error (char* format, ...);
+/**
+ * Attempts to change the port of the connection.  Returns -1 on failure, or the
+ * port number on success. */
+int change_port (int new_port);
 
-/* [ Miscellaneous Functions ] */
-conn_status_t* get_connection_status (conn_status_t* status);
-int get_procid ();
+/* *
+ * *                    [ Miscellaneous Functions ] 
+ * */
+
+/**
+ * Returns the status of the connection, whether waiting for a send or recv,
+ * terminating or normal.  */
+conn_state_t get_connection_status ();
+
+/**
+ * Get the port to which the client is connected. */
+int get_port ();
+
+/**
+ * Get the ID of this child process. */
+int get_child_id ();
+
+/**
+ * Get information for this connection.  Info returned includes the port number,
+ * client IP address, connection state, and child ID. */
+conn_info_t get_connection_info ();
+
+/**
+ * Get the IP address of the connected client. */
 ip_addr_t get_client_ip ();
-
-
 
 #endif //LIBSERVER_H
 

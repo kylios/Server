@@ -199,7 +199,7 @@ main (int argc, char** argv, char** envp)
          * before creating the thread so that we can be sure to get the lock
          * before the new thread does, forcing the thread to block until we are
          * sure we want the thread running. */
-        result = pthread_mutex_init (&new_child->init_lock, NULL);
+        int result = pthread_mutex_init (&new_child->init_lock, NULL);
         if (result)
         {
             server_err ("Error initializing init_lock for new thread: %d", result);
@@ -217,7 +217,7 @@ main (int argc, char** argv, char** envp)
 
         /* Create a thread for communication with the new child we're about to
          * fork. */
-        int result = pthread_create (&new_child->thread, NULL, 
+        result = pthread_create (&new_child->thread, NULL, 
                 &child_comm_thread, new_child);
         if (result)
         {
@@ -241,7 +241,7 @@ main (int argc, char** argv, char** envp)
             close (parentread);
             close (parentwrite);
             pthread_mutex_unlock (&new_child->init_lock);
-            pthread_join (&new_child->thread);
+            pthread_join (new_child->thread, NULL);
             free (new_child);
             server_err ("Could not fork a child! Terminating server...");
             run = false;
@@ -319,6 +319,9 @@ main (int argc, char** argv, char** envp)
              * pipes we use to communicate with the process, the child's client
              * ip address, and the pid. */
             add_child (new_child);
+
+            /* Let the thread begin */
+            pthread_mutex_unlock (&new_child->init_lock);
         }
     }
 

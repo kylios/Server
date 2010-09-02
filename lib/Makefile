@@ -12,10 +12,10 @@ CFLAGS= -D_POSIX_SOURCE=200112L \
 test_server: server.o test_server.o debug.o
 	gcc -o test_server server.o test_server.o debug.o
 
-server.o: server.c server.h
+server.o: server.c server.h messaging.h
 	gcc $(CFLAGS) -c server.o server.c
 
-test_server.o: test_server.c server.h
+test_server.o: test_server.c server.h messaging.h
 	gcc $(CFLAGS) -c test_server.o test_server.c
 
 debug.o: ../include/debug.h ../src/debug.c
